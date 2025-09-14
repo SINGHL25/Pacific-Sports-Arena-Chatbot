@@ -1,5 +1,7 @@
 # Pacific-Sports-Arena-Chatbot
 🏸 Pacific Sports Arena Booking Chatbot
+<img width="1024" height="1024" alt="Gemini_Generated_Image_wfkhpowfkhpowfkh" src="https://github.com/user-attachments/assets/96e10985-3379-4917-9ad6-682709ca211a" />
+
 A fully interactive AI-enabled chatbot built with Streamlit, designed to handle bookings, collect customer feedback, and send real-time email alerts to the arena owner.
 Ideal for indoor sports complexes, box cricket, badminton courts, event spaces, and commercial shop bookings.
 
